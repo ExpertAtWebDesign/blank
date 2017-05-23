@@ -1,0 +1,10 @@
+{
+    "files": [
+        "app/scripts/app.ts",
+        "app/scripts/greeter.ts"
+    ],
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "target": "es5"
+    }
+}
