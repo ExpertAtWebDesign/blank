@@ -1,10 +1,10 @@
-#Basic Dev Environment for EWD
+# Basic Dev Environment for EWD
 
 Utilizing Gulp, Sass, Pug, and Typescript to craft beautiful websites
 
 ------
 
-##Gulp Commands
+## Gulp Commands
  * gulp [defalt]
  * gulp serve [run dev server]
 
