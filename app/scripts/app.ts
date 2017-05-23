@@ -1,7 +1,7 @@
 // Imports
 
-import { sayHello } from "./greeter";
 import * as $ from 'jquery';
+import { sayHello } from "./greeter";
 
 // Functions
 
